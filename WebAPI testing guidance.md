@@ -46,8 +46,8 @@ For reference and training purpose a number of WebAPI test scenarios are list he
 - Fail to handle error conditions gracefully (for e.g: 500 for all error cases, when it is just 400/404)
 - Unused flags
 - Missing functionality (for e.g: in-complete/wrong response content)
-- Reliability issues; connection issues and getting a response from API ()
-- Security issues ()
+- Reliability issues; connection issues and getting a response from API
+- Security issues
 - Performance issue
 - Unhelpful error/warning
 - Incorrect handling of valid argument values
